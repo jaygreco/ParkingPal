@@ -1,5 +1,5 @@
 # ParkingPal
-An open-source distance meter for easy garage parking.
+An open-source distance meter for easy garage parking. See [the thingiverse page](https://www.thingiverse.com/thing:3448336) for more info.
 
 SolidWorks CAD and STL files will hosted in Thingiverse as well.
 
